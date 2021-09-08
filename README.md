@@ -122,7 +122,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
                     message = calcHiPrimeNbr(Number(strArry[1])).toString();
                     break;
                 case "fibonacci".toUpperCase():
-                    message = higesthFibonacciNumber(Number(strArry[1])).toString();
+                    message = highesthFibonacciNumber(Number(strArry[1])).toString();
                     break;
                 default:
                     message = user + ' ! no operator detected'
@@ -275,7 +275,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
         return rsltData;
     }
 
-    function higesthFibonacciNumber(nbr) {
+    function highesthFibonacciNumber(nbr) {
         //find highest fibonacci number in array below value provided       
         var rslt = 0;
         var i = 0;
@@ -299,7 +299,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
 
 6. String values can be entered in the Input box. Pressing the Calculate button invokes the code. The Results of each calculation are listed below. All error messages are prefixed with an exclamation mark. 
 
-7. When I reveiwed my code as against the requirments for this option I realised that I had overlooked the nested parentheses requirement. This would involve setting up a looping function to execute the nested calculations in order to obtain the result. 
+7. When I reveiwed my code as against the requirments for this option I realised that I had overlooked the nested parentheses requirement. This would involve setting up a looping function to execute the nested calculations in order to obtain the result. Further last minute testing established that I have overlooked the contiguous white space requirement. The use of the Trim and Replace string functions are missing from my code.  
 
 '____________________________________________________________________________________________________________'
 
