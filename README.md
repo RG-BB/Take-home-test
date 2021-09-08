@@ -299,7 +299,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
 
 6. String values can be entered in the Input box. Pressing the Calculate button invokes the code. The Results of each calculation are listed below. All error messages are prefixed with an exclamation mark. 
 
-7. When I reveiwed my code as against the requirments for this option I realised that I had overlooked the nested parentheses requirment. This would involve setting up a looping function to execute the nested calculations in order to obtain the result. 
+7. When I reveiwed my code as against the requirments for this option I realised that I had overlooked the nested parentheses requirement. This would involve setting up a looping function to execute the nested calculations in order to obtain the result. 
 
 '____________________________________________________________________________________________________________'
 
