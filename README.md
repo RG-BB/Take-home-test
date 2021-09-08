@@ -36,7 +36,7 @@ p output
 
 7. Note that \*pig\* is flagged because it is not yet included in the @words array.
 
-8. Disclaimer: I have never seen any Ruby code prior to this exercise but it was relatively easy to look up the relvant commands based upon my knowledge of other languages. Debugging, coding logic and understanding of requirements are universal to all languages.
+8. Disclaimer: I have never seen any Ruby code prior to this exercise but it was relatively easy to look up the relevant commands based upon my knowledge of other languages. Debugging, coding logic and understanding of requirements are universal to all languages.
 
 
 '____________________________________________________________________________________________________________'
