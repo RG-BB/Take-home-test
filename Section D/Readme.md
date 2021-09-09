@@ -12,4 +12,4 @@
 
 3.   Alternative design changes that would affect the extension. (a) Include validation to report that no brackets were detected. (b) Report the location(s) of mismatched brackets. (c) Set up an array of arrays to handle the support of multiple pairs of brackets. The inner array would contain the symbols for each set of brackets, a numeric counter and a flag variable to indicate that type of bracket has been found. The containing array would allow for multiple pairs of different types of brackets. The extension would need to return the results as an array. 
 
-'____________________________________________________________________________________________________________'
+
