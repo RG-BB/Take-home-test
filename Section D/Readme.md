@@ -1,6 +1,5 @@
 # Take-home Test - RG
 
-'____________________________________________________________________________________________________________'
 
 
 # Section D: Asymptotic Computational Complexity - Option 1: Space Complexity
