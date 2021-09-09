@@ -239,7 +239,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
 ````
 
 
-5. The project is named SignalRChat and can be compiled and executed using Visual Studio 19.
+5. The project is named SignalRChat and can be downloaded, compiled and executed using Visual Studio 19.
 
 6. String values can be entered in the Input box. Pressing the Calculate button invokes the code. The Results of each calculation are listed below. All error messages are prefixed with an exclamation mark. 
 
