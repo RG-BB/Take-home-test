@@ -1,6 +1,5 @@
 # Take-home Test - RG
 
-'____________________________________________________________________________________________________________'
 ## Section C: Problem-Solving - Option 2: String Calculator
 
 1. In order to save time I chose to make use of the Microsoft SignalR tutorial as the project base that would handle the standard UI and IO tasks for the solution. (https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-5.0&tabs=visual-studio) This is in accordance with the Best Practice of reusing working code while it does not impact the stipulation regarding the use of "under the hood" libraries to solve the problem.
@@ -240,11 +239,9 @@ document.getElementById("sendButton").addEventListener("click", function (event)
 ````
 
 
-
 5. The project is named SignalRChat and can be compiled and executed using Visual Studio 19.
 
 6. String values can be entered in the Input box. Pressing the Calculate button invokes the code. The Results of each calculation are listed below. All error messages are prefixed with an exclamation mark. 
 
 7. When I reveiwed my code as against the requirments for this option I realised that I had overlooked the nested parentheses requirement. This would involve setting up a looping function to execute the nested calculations in order to obtain the result. Further last minute testing established that I have overlooked the contiguous white space requirement. The use of the Trim and Replace string functions are missing from my code.  
 
-'____________________________________________________________________________________________________________'
