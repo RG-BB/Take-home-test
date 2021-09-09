@@ -1,6 +1,5 @@
 # Take-home Test - RG
 
-'____________________________________________________________________________________________________________'
 ## Section A: Code Review - Option 4: Ruby
 
 1. The quick and simple answer to the student's question is to explicitly assign the value to the array. e.g. array[array.index(n)] = "*#{n}*"
@@ -30,8 +29,6 @@ output = checker.spellChecker("cat ct dog pig hamster parot")
 p output
 ````
 
-
-
 6. The output from the above modified code will be; "cat \*ct\* dog \*pig\* hamster \*parot\*"
 
 7. Note that \*pig\* is flagged because it is not yet included in the @words array.
@@ -39,4 +36,3 @@ p output
 8. Disclaimer: I have never seen any Ruby code prior to this exercise but it was relatively easy to look up the relevant commands based upon my knowledge of other languages. Debugging, coding logic and understanding of requirements are universal to all languages.
 
 
-'____________________________________________________________________________________________________________'
