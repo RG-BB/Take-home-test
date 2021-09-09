@@ -1,6 +1,5 @@
 # Take-home Test - RG
 
-'____________________________________________________________________________________________________________'
 ## Section B: Domain Speciality
 
 Given the programming language choices in the other sections and the limitations on the choice in Section B I was only left with the option of using Java in order to meet the specific requirements for Section B. Java is not my language of choice.  While I have previously developed a Geocoding Android/ASP.NET application that encompassed all of the requirements for web development and data CRUD functionality via API JSON, it was all programmed using C#. I can request permission to share that code with you if that suits your requirements. After doing some research and making several attempts I realized that I do not have the resources within 10 days in order to replicate my prior accomplishments using Java. 
@@ -13,4 +12,3 @@ As the programmer in this situation I would appreciate the opportunity to take t
 
 I am confident in my knowledge and abilities to accomplish the tasks in this exercise as this is something that I have done on prior projects using other languages with longer timelines. Though I am unable to meet the requirements as currently specified, I feel that I am a good candidate for the code review and mentoring position, and look forward to working with you to ensure you are able to accurately evaluate my suitability. 
 
-'____________________________________________________________________________________________________________'
